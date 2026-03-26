@@ -1,7 +1,7 @@
-grillduino
+Smoked Raspberry
 ==========
 
-Code for connected grilling
+Code for controlling a smoker with a Rasberry Pi
 
 Motivation
 ----------
@@ -11,10 +11,10 @@ The last time I smoked a brisket, I was bombarded by constant requests for statu
 Description
 -----------
 
-Grillduino is a suite of programs which allow one to:
-* Measure grill temperature via a thermocouple connected to an Arduino
+Smoked Raspbery is a suite of programs which allow one to:
+* Measure grill temperature via a Temperature Probe
 * Manually enter meat temperature (via a dumb meat thermometer)
-* Tweet if grill temperature is outside accepted norms (too hot/cold)
+* Skeet if grill temperature is outside accepted norms (too hot/cold)
 * Periodically plot interesting temperatures and upload to a website so that the masses can obsess over them.
 
 This should be interesting...
